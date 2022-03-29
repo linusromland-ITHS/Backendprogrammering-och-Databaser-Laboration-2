@@ -1,6 +1,6 @@
-# Backendprogrammering-och-Databaser-Laboration-1
+# Backendprogrammering-och-Databaser-Laboration-2
 
-Projektet tillhörande `Laboration 1`.
+Projektet tillhörande `Laboration 2`.
 
 ## Licens
 
