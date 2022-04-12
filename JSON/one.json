@@ -1,0 +1,65 @@
+{
+	"name": "Spinach Tofu Scramble",
+	"description": "This quick and nourishing Spinach Tofu Scramble suits any meal, not just breakfast. It calls for spinach, but add any veggies and power up with plant-based protein!",
+	"time": 15,
+	"ingredients": [
+		{
+			"name": "Extra Vigin Olive Oil",
+			"amount": 1,
+			"unit": "table spoon"
+		},
+		{
+			"name": "Yellow Onion (diced)",
+			"amount": 0.5,
+			"unit": "cup"
+		},
+		{
+			"name": "Firm Tofu",
+			"amount": 1,
+			"unit": "pound"
+		},
+		{
+			"name": "Nutritional Yeast",
+			"amount": 1,
+			"unit": "teaspoon"
+		},
+		{
+			"name": "Kosher Salt",
+			"amount": 0.5,
+			"unit": "teaspoon"
+		},
+		{
+			"name": "Ground Black Pepper",
+			"amount": 0.25,
+			"unit": "teaspoon"
+		},
+		{
+			"name": "Ground Tumeric",
+			"amount": 0.25,
+			"unit": "teaspoon"
+		},
+		{
+			"name": "Spinach Leaves",
+			"amount": 4,
+			"unit": "cups"
+		},
+		{
+			"name": "Lemon Juice",
+			"amount": 0.25,
+			"unit": "teaspoon"
+		}
+	],
+	"steps": [
+		{
+			"description": "Heat a medium skillet over medium-high heat. Add oil; when it ripples, add the onion. Cook, stirring occasionally, until the onion is soft, 3 to 5 minutes."
+		},
+		{
+			"description": "Use your fingers to crumble the drained tofu into bite-sized pieces. You can do this directly over the skillet. Add the nutritional yeast, salt, pepper, and turmeric, and stir to combine. Cook, stirring occasionally, until the tofu is hot, about 3 minutes. Youre not aiming to brown the tofu here, but if that happens a little, its not an issue. "
+		},
+		{
+			"description": "Add the spinach and cook until wilted, 1 minute. Sprinkle the lemon juice over the scramble. Taste and adjust the seasoning with salt and pepper, if needed. Leftover tofu scramble will keep in a tightly covered container up to four days. I don’t recommend freezing it."
+		}
+	],
+	"tags": ["vegan", "vegetarian", "gluten-free", "dairy-free", "low-carb", "low-fat", "quick-and-easy", "healthy", "low-sodium"],
+	"refrence": "https://www.simplyrecipes.com/spinach-tofu-scramble-recipe-5215978"
+}
